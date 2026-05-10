@@ -13,3 +13,4 @@ My research combines numerical simulations, kinetic Monte Carlo methods, scaling
 - Personal website: https://giov-russo.github.io
 - arXiv: https://arxiv.org/abs/2604.17600
 - Email: giovanni.russo at universite-paris-saclay.fr
+- Google Scholar: https://scholar.google.fr/citations?user=Be22SmQAAAAJ&hl=fr&authuser=1
